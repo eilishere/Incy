@@ -1,0 +1,52 @@
+{
+  "name": "Incy",
+  "padlock": "ml1U2BJ0lWRSAizj1YXOpA==!Xoib9h1haBRj0OUvjDkYeVsnaJbRetSkbj9H4vEvOdInjHNwm6lOyrq4i9im0H6r",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "2a192eb0-9539-4568-8a91-6b1f95b86354",
+      "subscriptionId": "506f6d3a-2179-45e1-a676-909e403151ef",
+      "resourceGroup": "RosBotResourceGroup",
+      "serviceName": "Incy",
+      "type": "abs",
+      "name": "Incy",
+      "id": "1"
+    },
+    {
+      "connectionString": "14J8SVdcPlcsDDC4yMqKPA==!yHMKjPL2LjuNHfWUtjRUFsnpOJvCaHybqeBnzhquUvUFJI884Zy0MfL7EDygXFepWkC2hjBv5438MGPZ8MjY4NbZHuUlLtpYZedVOIELpUYwgFJ0qvLbhRxtdu+JmBf3Fla9MRQ94KyxnX4+uC6EMBhq7HpltgtzFziXAwmwsYD1WpVYv9JF3X9yv2bkvqyYe6vfmT1tmcWebfgIPDUKEg==",
+      "tenantId": "2a192eb0-9539-4568-8a91-6b1f95b86354",
+      "subscriptionId": "506f6d3a-2179-45e1-a676-909e403151ef",
+      "resourceGroup": "RosBotResourceGroup",
+      "serviceName": "incyafa8",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "dbf0d15b-7e41-4efa-bfbc-a0162f6045b0",
+      "appPassword": "EBXF3DAWIFimrw+No6SpAA==!BfDAFQ65HT1J4AY7BQ7T/wxh8g8BhoNj+FmZmciqsww=",
+      "endpoint": "https://incy.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "tZLXdGD8wODiSNRveowx7A==!lNpLfkd9CqUIcdrn7odXcL8CD75ZzXXLG+F5yslrc7UDHn7u9xIN04Im6+HAkrYU",
+      "applicationId": "cb561349-50d5-43b7-86d8-cff067404b77",
+      "apiKeys": {},
+      "tenantId": "2a192eb0-9539-4568-8a91-6b1f95b86354",
+      "subscriptionId": "506f6d3a-2179-45e1-a676-909e403151ef",
+      "resourceGroup": "RosBotResourceGroup",
+      "serviceName": "Incymh6ym4",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}
